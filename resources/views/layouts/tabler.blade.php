@@ -346,10 +346,6 @@
                                                 href="{{ route('purchases.approvedPurchases') }}">
                                                 {{ __('Approval') }}
                                             </a>
-                                            <a class="dropdown-item"
-                                                href="{{ route('purchases.dailyPurchaseReport') }}">
-                                                {{ __('Daily Purchase Report') }}
-                                            </a>
                                         </div>
                                     </div>
                                 </div>
